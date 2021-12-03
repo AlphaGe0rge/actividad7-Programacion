@@ -1,0 +1,16 @@
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\bin\Debug\net5.0\ejercicio4.exe
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\bin\Debug\net5.0\ejercicio4.deps.json
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\bin\Debug\net5.0\ejercicio4.runtimeconfig.json
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\bin\Debug\net5.0\ejercicio4.runtimeconfig.dev.json
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\bin\Debug\net5.0\ejercicio4.dll
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\bin\Debug\net5.0\ref\ejercicio4.dll
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\bin\Debug\net5.0\ejercicio4.pdb
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ejercicio4.csproj.AssemblyReference.cache
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ejercicio4.AssemblyInfoInputs.cache
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ejercicio4.AssemblyInfo.cs
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ejercicio4.csproj.CoreCompileInputs.cache
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ejercicio4.dll
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ref\ejercicio4.dll
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ejercicio4.pdb
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio4\obj\Debug\net5.0\ejercicio4.genruntimeconfig.cache

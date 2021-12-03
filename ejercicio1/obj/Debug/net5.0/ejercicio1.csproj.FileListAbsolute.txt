@@ -1,0 +1,16 @@
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.AssemblyReference.cache
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfoInputs.cache
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ejercicio1.AssemblyInfo.cs
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ejercicio1.csproj.CoreCompileInputs.cache
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\bin\Debug\net5.0\ejercicio1.exe
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\bin\Debug\net5.0\ejercicio1.deps.json
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.json
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\bin\Debug\net5.0\ejercicio1.runtimeconfig.dev.json
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\bin\Debug\net5.0\ejercicio1.dll
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\bin\Debug\net5.0\ref\ejercicio1.dll
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\bin\Debug\net5.0\ejercicio1.pdb
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ejercicio1.dll
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ref\ejercicio1.dll
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ejercicio1.pdb
+E:\lenguajesdeprogramacion\c#\ejerciciosuniversidad\ejercicio1\obj\Debug\net5.0\ejercicio1.genruntimeconfig.cache
